@@ -1,7 +1,7 @@
 {
   "name": "goit-nodejs-hw-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,19 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PaHomeAtHome/goit-nodejs-hw-01.git"
+    "url": "git+https://github.com/falltim/goit-nodejshw-01.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PaHomeAtHome/goit-nodejs-hw-01/issues"
+    "url": "https://github.com/falltim/goit-nodejs-hw01/issues"
   },
-  "homepage": "https://github.com/PaHomeAtHome/goit-nodejs-hw-01#readme",
+  "homepage": "https://github.com/falltim/goit-nodejs-hw01#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
   "dependencies": {
     "uuid": "^9.0.0",
     "yargs": "^17.6.0"
-  }
+  },
+  "keywords": []
 }
