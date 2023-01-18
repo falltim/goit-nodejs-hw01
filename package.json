@@ -1,5 +1,5 @@
 {
-  "name": "goit-nodejs-hw-01",
+  "name": "goit-nodejs-hw01",
   "version": "1.0.0",
   "description": "# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)",
   "main": "index.js",
